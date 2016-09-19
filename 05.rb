@@ -1,5 +1,5 @@
 # Métodos
-def saludar(nombre, apellido)
+def saludar(nombre)
   "Hola #{nombre}!"
 end
 
