@@ -1,3 +1,5 @@
+# Variables y constantes
+
 # Numéricos
 Numero = 10
 numero = 10

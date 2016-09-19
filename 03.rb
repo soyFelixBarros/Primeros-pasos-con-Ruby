@@ -1,3 +1,5 @@
+# Estructura condicional If
+
 condicion = 0
 
 if condicion == 0

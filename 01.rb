@@ -1,3 +1,3 @@
-# Instlación de Ruby y primer Hola mundo!
+# Instalación y Hola mundo! 
 
 puts "Hola mundo!"

@@ -1,7 +1,7 @@
-# Estructuras iterativas
+# Estructura iterativa While
+
 condicion = 0
 
-# Estructura While
 while condicion < 10 do
   puts Random.new_seed
   puts condicion
