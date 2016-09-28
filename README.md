@@ -1,8 +1,8 @@
 # Primeros pasos con Ruby
 Un curso para iniciarnos en el mundo de la programación por medio de un lenguaje flexible y de fácil aprendizaje como Ruby. A lo largo de los capítulos desarrollaremos la teoría necesaria y, mediante ejemplos sencillos, comenzaremos a programar.
 
-## Capítulos
-### Comenzar con Ruby
+## Capítulos:
+### 1. Comenzar con Ruby
 * [Instalación y Hola mundo!](http://wp.me/p7ht9Y-cL)
 * [Variables y constantes](http://wp.me/p7ht9Y-cW)
 * [Estructura condicional If](http://wp.me/p7ht9Y-d9)
