@@ -1,4 +1,8 @@
-# Métodos para utilizar en los Arrays:
+# Métodos para trabajar con Arrays:
+ary = Array.new
+ary[0] = "Feliz"
+ary[0] = "Felix"
+print ary
 
 # .first - Devuelve el primer elemento(s) del array.
 # https://ruby-doc.org/core-2.3.1/Array.html#method-i-first
@@ -10,13 +14,13 @@ a.first(2)
 b = [ "w", "x", "y", "z" ]
 b.last(2)
 
-# .length y .count - Devuelve la cantidad de elemento(s) del array.
-# https://ruby-doc.org/core-2.3.1/Array.html#method-i-length
+# .count - Devuelve la cantidad de elemento(s) del array.
 # https://ruby-doc.org/core-2.3.1/Array.html#method-i-count
 browsers = ['Chrome', 'Firefox', 'Safari', 'Opera', 'IE']
-browsers.length
+browsers.count
 
 # .empty? Comprobar si un array contiene NINGÚN elemento en absoluto.
+# https://ruby-doc.org/core-2.3.1/Array.html#method-i-empty-3F
 [].empty?
 
 # .push - Agrega elemento(s) al final del array.
